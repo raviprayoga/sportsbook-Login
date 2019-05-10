@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934010004132",
+    "firebase_url": "https://sportsbook-f8a9e.firebaseio.com",
+    "project_id": "sportsbook-f8a9e",
+    "storage_bucket": "sportsbook-f8a9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934010004132:android:830073d3ce806fbc",
+        "android_client_info": {
+          "package_name": "com.example.android.tubesSportsBook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934010004132-421n17c9opsrgcfokp3cb2lumh3l890l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtDQtwGCKa7clVuh1T1t3P4JHAlZsR6a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934010004132-421n17c9opsrgcfokp3cb2lumh3l890l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
